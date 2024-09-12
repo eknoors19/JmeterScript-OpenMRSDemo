@@ -1,0 +1,1 @@
+jmeter -n -t "D:\NAGP2024\Jmeter\OpenMRS_Final\Enhanced Script\OpenMRS.jmx" -l "D:\NAGP2024\Jmeter\OpenMRS_Final\Enhanced Script\OpenMRS.jtl" -e -o "D:\NAGP2024\Jmeter\OpenMRS_Final\HTML Report"
